@@ -5,6 +5,6 @@ This perl script was used for extracting genotypes from a range of Apis mellifer
 References:
 Aumer, D., Stolle, E., Allsopp, M., Mumoki, F., Pirk, C.W. and Moritz, R.F., 2019. 
 A single SNP turns a social honey bee (Apis mellifera) worker into a selfish parasite. 
-Molecular biology and evolution.
+Molecular biology and evolution. <b>36</b>(3): 516-526.
 
 Christmas et al. 2019. Social parasitism in the honeybee (Apis mellifera) is not controlled by a single SNP. MBE (Under Review)
