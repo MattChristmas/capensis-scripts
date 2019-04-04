@@ -1,4 +1,4 @@
-# Apis mellifera capensis - extract genotypes script
+# <i>Apis mellifera<i> - extract genotypes script
 
 This perl script was used for extracting genotypes from a range of Apis mellifera WGS samples for the subset of SNPs listed in supplementary table 1 of Aumer et al (2019) from phased Beagle files. Input files will need to be defined by the user within the script.
 
