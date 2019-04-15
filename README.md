@@ -8,4 +8,4 @@ Aumer, D., Stolle, E., Allsopp, M., Mumoki, F., Pirk, C.W. and Moritz, R.F., 201
 A single SNP turns a social honey bee (Apis mellifera) worker into a selfish parasite. 
 Molecular biology and evolution. <b>36</b>(3): 516-526.
 
-Christmas et al. 2019. Social parasitism in the honeybee (Apis mellifera) is not controlled by a single SNP. Molecular biology and evolution (Accepted)
+Christmas, M.J., Smith, N.M.A., Oldroyd, B.P. and Webster, M.T. 2019. Social parasitism in the honeybee (Apis mellifera) is not controlled by a single SNP. Molecular biology and evolution (Accepted)
